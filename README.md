@@ -54,8 +54,12 @@ npm run dev
 ```
 
 ## How to use
-
+Localy
 ```bash
 curl -X GET http://localhost:3000/api/albums
 ```
+```bash
+curl -X GET https://prisma-api.app.pedrocastellanos.xyz/api/
+```
+
 
